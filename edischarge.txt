@@ -1,0 +1,28 @@
+﻿[00:00] Understanding your health is hard. Understanding your health 
+
+[00:03] after a hospital visit is even harder. 
+
+[00:09] In a study done by two Michigan hospitals, 
+
+[00:11] 78% of patients were found confused after their visit, often times 
+
+[00:13] leading to medical errors, serious complications and unplanned visits. 
+
+[00:19] “eDischarge” attempts to solve it in a clean, simple app. The work flow is easy.
+
+[00:23] First, the patient logs into “eDischarge” through a username and password given by a healthcare provider. 
+
+[00:33] They are redirected to their individually tailored profile, detailing basic information like: the hospital, 
+	check in and check out time, their symptoms, and their healthcare providers. From here, they can navigate 
+	through the different sections as needed. 
+
+[00:46] In the treatment, medication and warnings section, they'll find at-home instructions, prescribed 
+	medication and warning signs. 
+
+[00:55] In the resource section, information, links and videos are provided to help patients understand their 
+	condition. 
+
+[01:08] If they have any questions, they can directly message a trained expert. 
+
+[01:18] By bringing discharge planning to the 21st century and taking a patient-first approach, "eDischarge” puts 
+	patients in charge of their health.
